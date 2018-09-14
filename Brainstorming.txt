@@ -1,0 +1,30 @@
+Animosity - an individual resource players start with. Does nothing to you, but when you betray someone, you give them one of your animosity, which they can use for something.
+Player roles - maybe hidden but probably not?
+* The pickpocket
+* The snitch
+* The white-collar criminal
+* The muscle
+* the innocent
+* the hacker
+* the mobster
+* the escapist
+
+types of escapes:
+* Tunnel
+* Helicopter
+* Disguise
+* Riot
+* Retrial
+
+Areas:
+* Security Center
+* Cafeteria
+* Weight Room
+* Yard
+
+Race to 100 victory points - each point is a 'percentage' of an escape
+  Follow up - maybe 'points' aren't for players but for escape methods? Dig a tunnel to advance the dig 'points' and get some stake in it.
+  Top players with stakes in certain methods get to escape, but they have one final prisoner's dilemma to take.
+  AA: Both escape and win
+  AB: B wins
+  BB: Neither escape and they lose escape progress
