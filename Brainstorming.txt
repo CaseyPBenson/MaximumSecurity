@@ -28,3 +28,5 @@ Race to 100 victory points - each point is a 'percentage' of an escape
   AA: Both escape and win
   AB: B wins
   BB: Neither escape and they lose escape progress
+
+2-player co-op mode? Escape From Death Row?
