@@ -1,5 +1,6 @@
 Animosity - an individual resource players start with. Does nothing to you, but when you betray someone, you give them one of your animosity, which they can use for something.
 Player roles - maybe hidden but probably not?
+Different roles start with different sets of 'workers' - cards
 * The pickpocket
 * The snitch
 * The white-collar criminal
@@ -9,6 +10,15 @@ Player roles - maybe hidden but probably not?
 * the mobster
 * the escapist
 
+Board layout:
+Clock like? Resolves from 1-12. Escape is in the center
+
+Types of Resources
+* Prison script
+* Contraband (nondescript -- a placeholder for drugs, cigarettes, dice, dirty magazines, etc.)
+* Animosity - always and only gained when another player betrays you. 
+* Stake - how much a player has invested in a certain escape path
+
 types of escapes:
 * Tunnel
 * Helicopter
@@ -17,10 +27,40 @@ types of escapes:
 * Retrial
 
 Areas:
-* Security Center
+* Cell block
+* Security Center - Spend animosity here as a snitch?
 * Cafeteria
 * Weight Room
 * Yard
+* Library
+* Common Room
+* Chapel
+* Workshop - Get money or items?
+* Infirmary
+* Visitation - Get money or contraband?
+* Shop - Spend money on contraband or items?
+* Classroom
+* Warden's Office
+* Solitary
+
+Events:
+* Riot
+* Lockdown
+* Visitation
+* Touring political figure
+* Another escape attempt
+* New arrivals
+* Famous prisoner leaving
+* Hunger strike? Maybe a bit heavy for this kind of game
+
+Hazards
+* Guard Towers
+* Barbed Wire
+* Walls
+* CCTV
+* Wiretaps
+* Guards
+* Gangs
 
 Race to 100 victory points - each point is a 'percentage' of an escape
   Follow up - maybe 'points' aren't for players but for escape methods? Dig a tunnel to advance the dig 'points' and get some stake in it.
