@@ -20,11 +20,11 @@ Types of Resources
 * Stake - how much a player has invested in a certain escape path
 
 types of escapes:
-* Tunnel
+* Tunnel - mainly upped by use of items
 * Helicopter
 * Disguise
-* Riot
-* Retrial
+* Riot - riot chance goes up every time someone betrays, increasing boardwide animosity
+* Retrial - mainly upped by research in the library/classroom
 
 Areas:
 * Cell block
